@@ -1,20 +1,12 @@
 import json
 import re
-import subprocess
-import sys
-
-try:
-    import spacy
-    nlp = spacy.load("en_core_web_sm")
-except OSError:
-    subprocess.run([sys.executable, "-m", "spacy", "download", "en_core_web_sm"])
-    import spacy
-    nlp = spacy.load("en_core_web_sm")
-
+import spacy
 from keybert import KeyBERT
 from rapidfuzz import fuzz
 
+nlp = spacy.load("en_core_web_sm")
 kw_model = KeyBERT()
+
 
 with open("data/skills.json", "r") as f:
     SKILLS_DB = json.load(f)
