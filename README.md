@@ -13,7 +13,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[Try it here → ai-resume-analyser.streamlit.app]((https://ai-resume-analyser-4p9b6vipblcpdwrkctt5wk.streamlit.app/))**
+🔗 **[Try it here → ai-resume-analyser.streamlit.app](https://ai-resume-analyser-4p9b6vipblcpdwrkctt5wk.streamlit.app/)**
 
 ---
 
