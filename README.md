@@ -11,9 +11,9 @@
 
 ---
 
-## 🚀 Live Demo
+##  Live Demo
 
-🔗 **[Try it here → ai-resume-analyser.streamlit.app](https://ai-resume-analyser-4p9b6vipblcpdwrkctt5wk.streamlit.app/)**
+ **[Try it here → ai-resume-analyser.streamlit.app](https://ai-resume-analyser-4p9b6vipblcpdwrkctt5wk.streamlit.app/)**
 
 ---
 
@@ -30,7 +30,7 @@ Upload any resume (PDF/DOCX) and paste a job description — the app will:
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
