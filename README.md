@@ -149,7 +149,7 @@ streamlit run app.py
 
 ##  Skills Demonstrated
 
-`Natural Language Processing` · `Named Entity Recognition` · `Transformer Models` · `Sentence Embeddings` · `Cosine Similarity` · `Fuzzy String Matching` · `REST API Integration` · `Prompt Engineering` · `FastAPI` · `Streamlit` · `PDF Parsing` · `Git & GitHub` · `Cloud Deployment`
+`Natural Language Processing` · `Named Entity Recognition` · `Transformer Models` · `Sentence Embeddings` · `Cosine Similarity` · `Fuzzy String Matching` · `Prompt Engineering` · `Streamlit` · `PDF Parsing` · `Git & GitHub` 
 
 ---
 
